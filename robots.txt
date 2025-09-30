@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://EMCMS.github.ioPINTS_HUB/sitemap.xml
+User-agent: * Disallow: Sitemap: https://EMCMS.github.io/PINTS_HUB/sitemap.xml
